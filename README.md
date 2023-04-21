@@ -1,5 +1,5 @@
 # Modules
-Modules for Roblox scripting utilities
+Modules for Roblox
 
 ## ScreenGui
 Makes a ScreenGui and allows to protect it.
