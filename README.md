@@ -4,8 +4,7 @@ Modules for making GUIs in Roblox scripting utilities
 ## ScreenGui
 How to use:
 ```lua
-local scrgui = loadstring(game:HttpGet("https://github.com/GoHamza/UIModules/blob/main/ScreenGui.luau?raw=true"))
-
+local scrgui = loadstring(game:HttpGet("https://github.com/GoHamza/UIModules/blob/main/ScreenGui.luau?raw=true"))()
 local myscreengui = scrgui(true)
 -- the rest of your code
 ```
