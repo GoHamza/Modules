@@ -1,5 +1,5 @@
-# UIModules
-Modules for making GUIs in Roblox scripting utilities
+# Modules
+Modules for Roblox scripting utilities
 
 ## ScreenGui
 Makes a ScreenGui and allows to protect it.
