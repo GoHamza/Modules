@@ -5,7 +5,7 @@ Modules for Roblox scripting utilities
 Makes a ScreenGui and allows to protect it.
 How to use:
 ```lua
-local scrgui = loadstring(game:HttpGet("https://github.com/GoHamza/UIModules/blob/main/ScreenGui.luau?raw=true"))()
+local scrgui = loadstring(game:HttpGet("https://github.com/GoHamza/Modules/blob/main/ScreenGui.luau?raw=true"))()
 local myscreengui = scrgui(true)
 -- the rest of your code
 ```
@@ -15,7 +15,7 @@ Returns the ScreenGui instance.
 Better implementation of `Instance.new()`
 How to use:
 ```lua
-local newinst = loadstring(game:HttpGet("https://github.com/GoHamza/UIModules/blob/main/NewInstance.luau?raw=true"))()
+local newinst = loadstring(game:HttpGet("https://github.com/GoHamza/Modules/blob/main/NewInstance.luau?raw=true"))()
 local part = newinst("Part", {
   Parent = workspace,
   Anchored = true
